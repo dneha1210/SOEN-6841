@@ -1,0 +1,11 @@
+Kees Dorst, Nigel Cross,
+Creativity in the design process: co-evolution of problem–solution,
+Design Studies,
+Volume 22, Issue 5,
+2001,
+Pages 425-437,
+ISSN 0142-694X,
+https://doi.org/10.1016/S0142-694X(01)00009-6.
+(https://www.sciencedirect.com/science/article/pii/S0142694X01000096)
+Abstract: Empirical data on design processes were obtained from a set of protocol studies of nine experienced industrial designers, whose designs were evaluated on overall quality and on a variety of aspects including creativity. From the protocol data we identify aspects of creativity in design related to the formulation of the design problem and to the concept of originality. We also apply our observations to a model of creative design as the co-evolution of problem/solution spaces, and confirm the general validity of the model. We propose refinements to the co-evolution model, and suggest relevant new concepts of ‘default’ and ‘surprise’ problem/solution spaces.
+Keywords: creative design; design process; product design; co-evolution
